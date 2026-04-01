@@ -26,11 +26,14 @@ assignees: ''
 | Website Maintainer | @ | |
 | Release Blog Owner | @ | |
 
-> A No-Go vote from any mandatory voter blocks the release.
+## Voting Rules
+
+- A No-Go vote from any mandatory voter or maintainer of any `opensearch-project` repo blocks the release. No-Go votes must include an explicit comment with reasoning.
+- A No-Go vote from any community member or OpenSearch user will be reviewed, with the final decision resting on the maintainer of the respective repo related to the concern.
 
 ## Other Maintainers & Contributors
 
-All other maintainers and contributors are encouraged to vote using 👍 (Go) or 👎 (No-Go) reactions on the respective comments below.
+All maintainers and community members are encouraged to vote using 👍 (Go) or 👎 (No-Go) reactions on the respective comments below.
 
 ## Release Checklist
 
