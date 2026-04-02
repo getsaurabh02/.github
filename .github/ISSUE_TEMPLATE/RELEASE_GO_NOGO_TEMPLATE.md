@@ -11,6 +11,12 @@ assignees: ''
 **Date:** <DATE>
 **Time:** 8:00 AM PST – 8:00 PM PST
 
+## Release References
+
+- **Release Issue:** [opensearch-project/opensearch-build#XXXX](https://github.com/opensearch-project/opensearch-build/issues/XXXX)
+- **Release Notes Draft:** <LINK>
+- **Build Status:** <LINK>
+
 ## How to Vote
 
 - **Go:** React with 👍 on the **Go** comment below
